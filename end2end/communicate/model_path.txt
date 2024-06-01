@@ -1,1 +1,0 @@
-./models/end2end/face/bjaq-id2-best-val.t

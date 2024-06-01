@@ -1,1 +1,0 @@
-./data/bjaq/end2end/bjaq.npy
